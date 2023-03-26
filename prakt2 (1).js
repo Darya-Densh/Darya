@@ -70,14 +70,5 @@ function getRandom(min, max) {
  }
  echo ("Привет,друзья")
 
- Задание 4(г)
 
- function InvertString (pal)  {
-    var aux = "";
-    for(var i in pal){
-        aux = pal[i] + aux;
-    }
-    return aux;
-  }
-  console.log(reverse("down"));
    
