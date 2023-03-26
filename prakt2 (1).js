@@ -64,11 +64,7 @@ function getRandom(min, max) {
 
  console.log(getRandom(1, 100));
  
- Задание 4(в):
- function echo (theline){
-    return document.write(theline);
- }
- echo ("Привет,друзья")
+
 
 
    
